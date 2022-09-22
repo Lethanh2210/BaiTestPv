@@ -27,5 +27,5 @@ const buildTree = (nodes) => {
 }
 
 const menuData = buildTree(Data);
-
+console.log(menuData)
 export default menuData;
